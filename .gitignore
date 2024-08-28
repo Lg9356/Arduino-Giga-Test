@@ -1,0 +1,7 @@
+.history
+.pio
+.vscode
+
+build
+
+*.code-workspace
